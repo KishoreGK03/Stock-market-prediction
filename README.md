@@ -7,3 +7,6 @@ Stock price prediction is a complex and challenging task due to the dynamic natu
   Experimental results validate the algorithm's effectiveness in enhancing prediction accuracy and robustness, showcasing its potential to provide valuable insights for stock price forecasting in dynamic and challenging market conditions.
 
 ![image](https://github.com/user-attachments/assets/2cdba643-f2df-486a-8bb1-c02a43f3b744)
+
+This project is inspiered from the research paper - "Knowledge graph and deep learning combined with a stock price prediction network focusing on related stocks and mutation points"
+The link to the Journel: https://doi.org/10.1016/j.jksuci.2022.05.014
